@@ -24,7 +24,7 @@ export default function About() {
           <img
             src="./images/kasturbhai_lalbhai.jpg"
             alt="kasturbhai lalbhai image"
-            className="w-56 sm:w-60  rounded-md "
+            className="w-56 sm:w-60  rounded-md"
             title="Lalbhai Dalpatbhai"
           />
           <p className="tracking-wide leading-loose">
