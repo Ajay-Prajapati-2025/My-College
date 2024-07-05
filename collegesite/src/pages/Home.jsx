@@ -1,5 +1,4 @@
 import React from "react";
-import ImageSlider from "./ImageSlider";
 
 export default function Home() {
   return (
@@ -7,7 +6,7 @@ export default function Home() {
 
       <div className="w-full">
         <img
-          src="./images/garden_ld.jpg"
+          src="https://ldce.ac.in/upload/gallery/1/civil-engineering-NUOFlJg9xP.jpg"
           alt="College image"
           className="w-full h-96 object-cover"
         />
