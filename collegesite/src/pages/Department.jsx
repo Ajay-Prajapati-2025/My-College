@@ -30,7 +30,6 @@ export default function Department() {
             <Link to='/mechanical'  className='hover:text-blue-600 font-semibold mb-1'>Mechanical Engineering</Link>
             <Link to='/plastic'  className='hover:text-blue-600 font-semibold mb-1'>Plastic Engineering</Link>
             <Link to='/rubber'  className='hover:text-blue-600 font-semibold mb-1'>Rubber Engineering</Link>
-            <Link to='/textile'  className='hover:text-blue-600 font-semibold mb-1'>Textile Engineering</Link>
             <Link to='/automobile'  className='hover:text-blue-600 font-semibold mb-1'>Automobile Engineering</Link>
           </ul>
         </div>
