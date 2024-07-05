@@ -7,7 +7,7 @@ export default function Home() {
 
       <div className="w-full">
         <img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSffJvE1R1iH10844Ltwz9CsOfHyybRw_hlRg&s"
+          src="https://ldce.ac.in/upload/gallery/1/civil-engineering-NUOFlJg9xP.jpg"
           alt="College image"
           className="w-full h-96 object-cover"
         />

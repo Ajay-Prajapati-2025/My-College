@@ -83,8 +83,6 @@ export default function App() {
           <Route path='/mechanical' element={<Mechanical/>}/>
           <Route path='/plastic' element={<Plastic/>}/>
           <Route path='/rubber' element={<Rubber/>}/>
-          <Route path='/sh' element={<SH/>}/>
-          <Route path='/textile' element={<Textile/>}/>
           <Route path='/links' element={<Links/>}/>
           <Route path='/sport' element={<Sports/>}/>
         </Routes>
