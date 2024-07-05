@@ -25,7 +25,7 @@ import Library from './pages/Library';
 import Canteen from './pages/Canteen';
 import Hostel from './pages/Hostel';
 import CampusMap from './pages/CampusMap'
-import Bio from './pages/Bio';
+import Bio from './pages/departments/Bio';
 import Automobile from './pages/departments/Automobile';
 import Chemical from './pages/departments/Chemical';
 import Civil from './pages/departments/Civil';
@@ -38,8 +38,6 @@ import IT from './pages/departments/IT';
 import Mechanical from './pages/departments/Mechanical';
 import Plastic from './pages/departments/Plastic';
 import Rubber from './pages/departments/Rubber';
-import SH from './pages/departments/SH';
-import Textile from './pages/departments/Textile';
 import Links from './pages/Links';
 import Sports from './pages/Sports';
 
