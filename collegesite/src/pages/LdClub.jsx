@@ -1,12 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import c1 from '../assets/c_1.jpg'
-import c2 from '../assets/c_2.jpg'
-import c3 from '../assets/c_3.jpg'
-import c4 from '../assets/c_4.gif'
-import c5 from '../assets/c_5.png'
-import c6 from '../assets/c_6.png'
-import c7 from '../assets/c_7.png'
 
 export default function LdClub() {
   return (
@@ -33,7 +26,7 @@ export default function LdClub() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-col sm:flex-row items-center gap-5    border-l-blue-800">
           <img
-            src={c1}
+            src="https://ldce.ac.in/upload/logo/club/advanature.jpg"
             alt="Adventure"
             className="flex self-center sm:self-start  w-60 h-auto"
           />
@@ -64,7 +57,7 @@ export default function LdClub() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-col sm:flex-row items-center gap-5    border-l-blue-800">
           <img
-            src={c2}
+            src="https://ldce.ac.in/upload/logo/club/coders-club.jpg"
             alt="Coders Club"
             className="flex self-center sm:self-start w-60 h-auto"
           />
@@ -95,7 +88,7 @@ export default function LdClub() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-col sm:flex-row items-center gap-5    border-l-blue-800">
           <img
-            src={c3}
+            src="https://ldce.ac.in/upload/logo/club/foss-programming-club-ldce.jpg"
             alt="FOSS Programming Club, LDCE"
             className="flex self-center sm:self-start w-60 h-auto"
           />
@@ -126,7 +119,7 @@ export default function LdClub() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-col sm:flex-row items-center gap-5    border-l-blue-800">
           <img
-            src={c4}
+            src="https://ldce.ac.in/upload/logo/club/ieee-ldce.gif"
             alt="IEEE LDCE"
             className="flex self-center sm:self-start w-60 h-auto"
           />
@@ -157,7 +150,7 @@ export default function LdClub() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-col sm:flex-row items-center gap-5    border-l-blue-800">
           <img
-            src={c5}
+            src="https://ldce.ac.in/upload/logo/club/innovator-club.png"
             alt="Innovator Club"
             className="flex self-center sm:self-start w-60 h-auto"
           />
@@ -188,7 +181,7 @@ export default function LdClub() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-col sm:flex-row items-center gap-5    border-l-blue-800">
           <img
-            src={c6}
+            src="https://ldce.ac.in/upload/logo/club/team-robocon-ldce.png"
             alt="team robocon"
             className="flex self-center sm:self-start w-60 h-auto"
           />
@@ -219,7 +212,7 @@ export default function LdClub() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-col sm:flex-row items-center gap-5    border-l-blue-800">
           <img
-            src={c7}
+            src="https://ldce.ac.in/upload/logo/club/national-service-scheme.png"
             alt="NSS"
             className="flex self-center sm:self-start w-60 h-auto"
           />

@@ -12,7 +12,7 @@ import Circular from './pages/Circular';
 import Campuslife from './pages/Campuslife';
 import Footer from './components/Footer';
 import Achivements from './pages/Achivements';
-import AppiledMechanics from './pages/departements/AppiledMechanics';
+import AppiledMechanics from './pages/departments/AppiledMechanics';
 import LdClub from './pages/LdClub';
 import Adventure from './clubs/Adventure';
 import CodersClub from './clubs/CodersClub';
@@ -27,7 +27,7 @@ import Hostel from './pages/Hostel';
 import CampusMap from './pages/CampusMap'
 import Bio from './pages/Bio';
 import Automobile from './pages/departments/Automobile';
-import Chemical from './pages/departments/Chemical'
+import Chemical from './pages/departments/Chemical';
 import Civil from './pages/departments/Civil';
 import Computer from './pages/departments/Computer';
 import Electrical from './pages/departments/Electrical';
@@ -55,7 +55,6 @@ export default function App() {
           <Route path='/placement' element={<Placement/>}/>
           <Route path='/circular' element={<Circular/>}/>
           <Route path='/campuslife' element={<Campuslife/>}/>
-          <Route path='/innovation' element={<Innovation/>}/>
           <Route path='/sign-in'element={<SignIn/>}/>
           <Route path='/sign-up'element={<SignUp/>}/>
           <Route path='/achivement' element={<Achivements/>}/>

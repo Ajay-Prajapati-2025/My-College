@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import hostel from '../assets/hostel.jpg'
 
 export default function Hostel() {
   return (
@@ -25,7 +24,7 @@ export default function Hostel() {
 
       <div className="max-w-6xl mx-auto flex flex-col justify-center items-center gap-10 my-10 bg-gray-100 p-10 rounded-lg">
         <img
-          src={hostel}
+          src="https://ldce.ac.in/img/sliders/hostels/1.jpg"
           alt="Hostel Image"
           className="shadow-2xl "
         />

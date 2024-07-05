@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Achivements from "./Achivements";
 
 
 export default function Circular() {

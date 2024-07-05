@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import campMap from "../assets/campus_map.png"
 
 export default function Map() {
   return (
@@ -12,7 +11,7 @@ export default function Map() {
 
 
         <div className='max-w-6xl mx-auto flex flex-col justify-center items-center gap-10 my-10 bg-gray-100 p-10 rounded-lg'>
-          <img src={campMap} alt="Adventure Image" className='shadow-2xl p' />
+          <img src="https://ldce.ac.in/img/map.png" alt="Adventure Image" className='shadow-2xl p' />
         </div>
     </div>
   )

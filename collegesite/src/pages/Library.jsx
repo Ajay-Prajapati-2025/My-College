@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import lib from '../assets/library.jpg'
 
 export default function Library() {
   return (
@@ -25,7 +24,7 @@ export default function Library() {
 
       <div className="max-w-6xl mx-auto flex flex-col justify-center items-center gap-10 my-10 bg-gray-100 p-10 rounded-lg">
         <img
-          src={lib}
+          src="https://ldce.ac.in/img/sliders/library/1.jpg"
           alt="Library Image"
           className="shadow-2xl "
         />

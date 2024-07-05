@@ -1,15 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import sport_g from '../assets/sport_g.jpg'
-import cricket from '../assets/cricket.png'
-import volleyball from '../assets/volleyball.png'
-import football from '../assets/football.png'
-import chess from '../assets/chess.png'
-import tt from '../assets/table_tennis.png'
-import tennis from '../assets/tennis.png'
-import badminton from '../assets/badminton.png'
-import kabaddi from '../assets/kabaddi.png'
-import kho from '../assets/kho_kho.png'
 
 export default function Sports() {
   return (
@@ -33,13 +23,13 @@ export default function Sports() {
       </div>
 
       <div className="max-w-4xl mx-auto  my-10">
-        <img src={sport_g} className="rounded-lg" />
+        <img src="https://ldce.ac.in/img/sliders/sports/1.jpg" className="rounded-lg" />
       </div>
 
       <div className="w-full sm:max-w-6xl sm:mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src={cricket}
+            src="https://ldce.ac.in/upload/logo/sports/cricket.png"
             alt="Cricket image"
             className="flex self-start w-60 h-auto"
           />
@@ -67,7 +57,7 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src={football}
+            src="https://ldce.ac.in/upload/logo/sports/football.png"
             alt="Football image"
             className="flex self-start w-60 h-auto"
           />
@@ -95,7 +85,7 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src={tennis}
+            src="https://ldce.ac.in/upload/logo/sports/tennis.png"
             alt="Tennis Image"
             className="flex self-start w-60 h-auto"
           />
@@ -124,7 +114,7 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src={badminton}
+            src="https://ldce.ac.in/upload/logo/sports/badminton.png"
             alt="badminton Image"
             className="flex self-start w-60 h-auto"
           />
@@ -154,7 +144,7 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src={tt}
+            src="https://ldce.ac.in/upload/logo/sports/table_tennis.png"
             alt="table tennis image"
             className="flex self-start w-60 h-auto"
           />
@@ -181,7 +171,7 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src={volleyball}
+            src="https://ldce.ac.in/upload/logo/sports/volleyball.png"
             alt="volley ball image"
             className="flex self-start w-60 h-auto"
           />
@@ -210,7 +200,7 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src={aethletic}
+            src="https://ldce.ac.in/upload/logo/sports/athletic.png"
             alt="aethletic image"
             className="flex self-start w-60 h-auto"
           />
@@ -236,7 +226,7 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src={chess}
+            src="https://ldce.ac.in/upload/logo/sports/chess.png"
             alt="chess image"
             className="flex self-start w-60 h-auto"
           />
@@ -264,7 +254,7 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src={kabaddi}
+            src="https://ldce.ac.in/upload/logo/sports/kabaddi.png"
             alt="kabaddi image"
             className="flex self-start w-60 h-auto"
           />
@@ -291,7 +281,7 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src={kho}
+            src="https://ldce.ac.in/upload/logo/sports/kho_kho.png"
             alt="kho kho image"
             className="flex self-start w-60 h-auto"
           />

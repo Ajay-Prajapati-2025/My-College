@@ -25,7 +25,7 @@ export default function Canteen() {
 
       <div className="max-w-6xl mx-auto flex flex-col justify-center items-center gap-5 my-10 bg-gray-100 p-10 rounded-lg">
         <img
-          src={canteen}
+          src="https://ldce.ac.in/img/sliders/canteen/1.jpg"
           alt="Adventure Image"
           className="shadow-2xl h-96"
         />
