@@ -22,7 +22,7 @@ export default function About() {
         </h1>
         <div className="text-md sm:text-lg flex flex-col sm:flex-row gap-4 text-wrap bg-gray-100 p-12 rounded-lg ">
           <img
-            src="./images/kasturbhai_lalbhai.jpg"
+            src="https://ldce.ac.in/img/Shri_Kasturbhai_Lalbhai_Image.jpg"
             alt="kasturbhai lalbhai image"
             className="w-56 sm:w-60  rounded-md"
             title="Lalbhai Dalpatbhai"
@@ -71,7 +71,7 @@ export default function About() {
                 Engineering with an intake of 35 students in each field.
               </p>
               <img
-                src="./images/ld_history.jpg"
+                src="https://ldce.ac.in/upload/gallery/history/5.jpg"
                 alt="Ld history"
                 className="w-80 h-auto  rounded-lg"
                 title="History image"
@@ -80,7 +80,7 @@ export default function About() {
 
             <div className="mb-3 gap-5 p-12  rounded-lg flex flex-col sm:flex-row">
               <img
-                src="./images/canteen.jpg"
+                src="https://ldce.ac.in/upload/gallery/history/3.jpg"
                 alt="Canteen in early years"
                 className="w-52 h-auto rounded-lg"
                 title="canteen"
@@ -106,12 +106,12 @@ export default function About() {
           </h1>
           <div className="flex flex-col sm:flex-row  sm:max-w-6xl gap-5 mt-7 p-5">
             <img
-              src="./images/annexe-building.jpg"
+              src="https://ldce.ac.in/upload/gallery/history/annexe-building.jpg"
               alt="Annexe building"
               className="w-full sm:w-1/2 rounded-lg"
             />
             <img
-              src="./images/ld_garden.jpeg"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlH6aQYemxBCRtP3r973X0kUsXX7I0-V6uQ&s"
               alt=""
               className="w-full sm:w-1/2 rounded-lg"
             />

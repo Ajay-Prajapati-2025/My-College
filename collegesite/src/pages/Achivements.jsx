@@ -11,7 +11,7 @@ export default function Achivements() {
 
         <div className='max-w-6xl mx-auto my-10'>
             <div className='border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5    border-l-blue-800'>
-                <img src="./achieve_images/a_1.jpeg" alt="./achieve_images/alter_image.jpg"  className='flex self-start'/>
+                <img src="https://ldce.ac.in/images/thumb/achievements/2024/ldce-nss-unit-awarded-as-best-nss-unit-and-prof-c-s-sanghvi-as-best-program-officer-of-gtu-for-the-year-2021-22.jpeg" alt="image"  className='flex self-start'/>
                 <div className='flex flex-col gap-3'>
                     <h1 className='text-2xl text-blue-600'>LDCE NSS Unit awarded as Best NSS Unit and Prof. C. S. Sanghvi as Best Program Officer of GTU for the year 2021-22.</h1>
                     <p>By LDCE / 18 May, 2024 <br />
@@ -23,7 +23,7 @@ export default function Achivements() {
 
         <div className='max-w-6xl mx-auto my-10'>
             <div className='border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5    border-l-blue-800'>
-                <img src="./achieve_images/a_2.png" alt="./achieve_images/alter_image.jpg"  className='flex self-start'/>
+                <img src="https://ldce.ac.in/images/thumb/achievements/2024/congratulations-to-tanay-gajjar-and-prof-a-g-momin-for-securing-patent-on-design-of-split-rivet-press.png" alt="image"  className='flex self-start'/>
                 <div className='flex flex-col gap-3'>
                     <h1 className='text-2xl text-blue-600'>Congratulations to Tanay Gajjar and Prof. A G Momin for securing patent on Design of Split Rivet Press</h1>
                     <p>By LDCE / 30 Apr, 2024 <br />
@@ -35,7 +35,7 @@ export default function Achivements() {
 
         <div className='max-w-6xl mx-auto my-10'>
             <div className='border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5    border-l-blue-800'>
-                <img src="./achieve_images/a_3.jpeg" alt="./achieve_images/alter_image.jpg"  className='flex self-start'/>
+                <img src="https://ldce.ac.in/images/thumb/achievements/2024/ldce-shines-at-the-national-level-design-competition-for-steel-intensive-trade-fair-centre.jpeg" alt="image"  className='flex self-start'/>
                 <div className='flex flex-col gap-3'>
                     <h1 className='text-2xl text-blue-600'>LDCE students shines at the National Level Design Competition-2024</h1>
                     <p>By LDCE / 26 Apr, 2024 <br />
@@ -47,7 +47,7 @@ export default function Achivements() {
 
         <div className='max-w-6xl mx-auto my-10'>
             <div className='border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5    border-l-blue-800'>
-                <img src="./achieve_images/a_4.jpeg" alt="./achieve_images/alter_image.jpg"  className='flex self-start'/>
+                <img src="https://ldce.ac.in/images/thumb/achievements/2024/tathya-patel-received-youngest-software-developer-achiever-by-leadership-federation-in-dubai-on-april-18-2024.jpeg" alt="image"  className='flex self-start'/>
                 <div className='flex flex-col gap-3'>
                     <h1 className='text-2xl text-blue-600'>Tathya Patel Received Youngest Software Developer Achiever By Leadership Federation In Dubai On April 18, 2024</h1>
                     <p>By Computer Engineering(NBA Accredited- 2023-26) / 24 Apr, 2024 <br />
@@ -59,7 +59,7 @@ export default function Achivements() {
 
         <div className='max-w-6xl mx-auto my-10'>
             <div className='border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5    border-l-blue-800'>
-                <img src="./achieve_images/a_5.jpeg" alt="./achieve_images/alter_image.jpg"  className='flex self-start'/>
+                <img src="https://ldce.ac.in/images/thumb/achievements/2016/i-scale-award-from-gtu-to-the-students-for-leadership-excellence.jpg" alt="image"  className='flex self-start'/>
                 <div className='flex flex-col gap-3'>
                     <h1 className='text-2xl text-blue-600'>i-SCALE award from GTU to the students for leadership & excellence</h1>
                     <p>By LDCE / 14 Feb, 2016 <br />
@@ -71,7 +71,7 @@ export default function Achivements() {
 
         <div className='max-w-6xl mx-auto my-10'>
             <div className='border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5    border-l-blue-800'>
-                <img src="./achieve_images/a_6.jpg" alt="./achieve_images/alter_image.jpg"  className='flex self-start'/>
+                <img src="https://ldce.ac.in/images/thumb/achievements/1970/i-scale-award-from-gtu-to-the-students-for-leadership-excellence.jpg" alt="image"  className='flex self-start'/>
                 <div className='flex flex-col gap-3'>
                     <h1 className='text-2xl text-blue-600'>i-SCALE award from GTU to the students for leadership & excellence</h1>
                     <p>By LDCE / 27 Mar, 2018 <br />
@@ -83,7 +83,7 @@ export default function Achivements() {
 
         <div className='max-w-6xl mx-auto my-10'>
             <div className='border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5    border-l-blue-800'>
-                <img src="./achieve_images/a_7.jpg" alt="./achieve_images/alter_image.jpg"  className='flex self-start'/>
+                <img src="https://ldce.ac.in/images/thumb/achievements/2022/ldce-secured-first-position-in-gujarat-samachar-int-drama-competition-and-our-student-monit-pal-won-2nd-prize-for-best-actor.jpeg" alt="image"  className='flex self-start'/>
                 <div className='flex flex-col gap-3'>
                     <h1 className='text-2xl text-blue-600'>Team Robocon LDCE stood 2nd runners-up in ROBOMINTON</h1>
                     <p>By Team Robocon LDCE / 07 Mar, 2015 <br />
