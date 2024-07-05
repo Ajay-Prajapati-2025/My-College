@@ -1,12 +1,12 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import a1 from '../assets/a_1.jpeg'
-import a2 from '../assets/a_2.jpeg'
+import a2 from '../assets/a_2.png'
 import a3 from '../assets/a_3.jpeg'
 import a4 from '../assets/a_4.jpeg'
 import a5 from '../assets/a_5.jpeg'
-import a6 from '../assets/a_6.jpeg'
-import a7 from '../assets/a_7.jpeg'
+import a6 from '../assets/a_6.jpg'
+import a7 from '../assets/a_7.jpg'
 
 export default function Achivements() {
   return (
