@@ -1,41 +1,3 @@
-// import React from 'react'
-// import { Link } from 'react-router-dom'
-
-// export default function Header() {
-//   return (
-//     <div className='border-b-2 pt-1'>
-//         <header className='flex justify-between items-center px-4'>
-//             {/* logo container */}
-//             <Link to='/'>
-//             <div className='flex items-center gap-2 m-1'>
-//                 <img src="./images/ld_logo.png" alt="College logo" className='w-16 h-16 '/>
-//                 <span className='text-xl font-semibold'>LDCE</span>
-//             </div>
-//             </Link>
-
-//             <div className="hidden md:flex md:flex-wrap md:gap-4">
-//                 <ul className='flex flex-wrap gap-4'>
-//                     <Link to='/'><li className='hover:bg-gray-200 hover:text-blue-600 px-3 py-3 rounded-lg font-semibold'>Home</li></Link>
-//                     <Link to='/about'><li className='hover:bg-gray-200 hover:text-blue-600 px-3 py-3 rounded-lg font-semibold'>About</li></Link>
-//                     <Link to='/academic'><li className='hover:bg-gray-200 hover:text-blue-600 px-3 py-3 rounded-lg font-semibold'>Academic</li></Link>
-//                     <Link to='/department'><li className='hover:bg-gray-200  hover:text-blue-600 px-3 py-3 rounded-lg font-semibold'>Department</li></Link>
-//                     <Link to='/circular'><li className='hover:bg-gray-200 hover:text-blue-600 px-3 py-3 rounded-lg font-semibold'>Circulars</li></Link>
-//                     <Link to='/campuslife'><li className='hover:bg-gray-200 hover:text-blue-600 px-3 py-3 rounded-lg font-semibold'>CampusLife</li></Link>
-//                     <Link to='/placement'><li className='hover:bg-gray-200 hover:text-blue-600 px-3 py-3 rounded-lg font-semibold'>Placement</li></Link>
-//                     <Link to='/innovation'><li className='hover:bg-gray-200 hover:text-blue-600 px-3 py-3 rounded-lg font-semibold'>Innovation</li></Link>
-//                 </ul>
-//             </div>
-            
-
-//             <div>
-//                 <Link to='/sign-in'><span className='bg-gray-200 p-2 font-semibold rounded-lg'>Sing-In</span></Link>
-//             </div>
-//         </header>
-//     </div>
-//   )
-// }
-
-
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 
@@ -52,7 +14,7 @@ export default function Header() {
         {/* logo container */}
         <Link to='/'>
           <div className='flex items-center gap-2 m-1'>
-            <img src="./images/ld_logo.png" alt="College logo" className='w-16 h-16' />
+            <img src="https://storage.googleapis.com/ezap-prod/colleges/6071/ld-college-of-engineering-ahmedabad-logo.png" alt="College logo" className='w-16 h-16' />
             <span className='text-xl font-semibold'>LDCE</span>
           </div>
         </Link>
