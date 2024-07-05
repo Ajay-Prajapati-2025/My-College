@@ -69,10 +69,10 @@ export default function Home() {
         <div className="flex flex-col sm:flex-row sm:overflow-scroll md:overflow-scroll lg:overflow-scroll xl:overflow-scroll sm:items-center gap-4 max-w-6xl mx-auto sm:w-full ">
             <img src="https://ibsintelligence.com/wp-content/uploads/2021/09/TCS.jpg" alt="Tcs image" className="w-40 h-40 object-cover "/>
             <img src="https://cdn.brighttalk.com/ams/california/images/channel/19945/image_911705.png?width=300&height=300" alt="Wipro image" className="w-40 h-40 object-cover"/>
-            <img src="https://e7.pngegg.com/pngimages/916/300/png-clipart-accenture-new-logo-icons-logos-emojis-iconic-brands.png" alt="accenture image" className="w-40 h-40 object-cover"/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfkOjB1-V3Ng0V2jtaHkqIRA_gsMS8vxjtEw&s" alt="accenture image" className="w-40 h-40 object-cover"/>
             <img src="https://pbs.twimg.com/profile_images/1098468551197970433/6_5YS3Gv_400x400.png" alt="GNFC image" className="w-40 h-40 object-cover"/>
-            <img src="https://banner2.cleanpng.com/20180715/gqw/kisspng-ibm-power-systems-computer-servers-maximo-ibm-logo-5b4b367ed71384.561241151531655806881.jpg" alt="IBM image" className="w-40 h-40 object-fit"/>
-            <img src="https://banner2.cleanpng.com/20181024/yhb/kisspng-logo-kiwitech-llc-brand-trademark-product-kiwitech-announces-strategic-partnership-with-clou-5bd05688e207c5.6879742415403802969258.jpg" alt="kiwitech image" className="w-56 h-40 object-fit"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/IBM_logo_in.jpg" alt="IBM image" className="w-40 h-40 object-fit"/>
+            <img src="https://hireequity.com/wp-content/uploads/kiwi-tech-1-300x193.png" alt="kiwitech image" className="w-56 h-40 object-fit"/>
         </div>
         
 
