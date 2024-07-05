@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import i from '../assets/ic.jpg'
 
 export default function IC() {
   return (
@@ -25,7 +24,7 @@ export default function IC() {
 
       <div className="max-w-6xl flex flex-col mx-auto items-center gap-3 bg-gray-100 mt-10 mb-10 rounded-lg">
         <div className="mt-5">
-          <img src={i} className="rounded-lg" />
+          <img src="https://ldce.ac.in/gallery/5/minislider/instrumentation-control-engineering-tiyg90Hoz9.jpg" className="rounded-lg" />
         </div>
 
         <div className="w-full text-white px-10 py-6">

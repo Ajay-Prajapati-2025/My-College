@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import mechnics_i from '../assets/mechanics.jpeg'
 
 export default function AppiledMechanics() {
   return (
@@ -25,7 +24,7 @@ export default function AppiledMechanics() {
 
       <div className="max-w-6xl flex flex-col mx-auto items-center gap-3 bg-gray-100 mt-10 mb-10 rounded-lg">
         <div className="mt-5">
-          <img src={mechnics_i} className="rounded-lg" />
+          <img src="https://ldce.ac.in/gallery/7/minislider/applied-mechanics-bEfPspSdlb.JPG" alt="mechanics image" className="rounded-lg" />
         </div>
 
         <div className="w-full text-white px-10 py-6">

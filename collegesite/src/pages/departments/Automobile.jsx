@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import auto from '../assets/automobile.jpg'
 
 export default function Automobile() {
   return (
@@ -25,7 +24,7 @@ export default function Automobile() {
 
       <div className="max-w-6xl flex flex-col mx-auto items-center gap-3 bg-gray-100 mt-10 mb-10 rounded-lg">
         <div className="mt-5">
-          <img src={auto} className="rounded-lg" />
+          <img src="https://ldce.ac.in/gallery/206/minislider/automobile-engineering-C8SOM5WGJh.jpg" className="rounded-lg" />
         </div>
 
         <div className="w-full text-white px-10 py-6">

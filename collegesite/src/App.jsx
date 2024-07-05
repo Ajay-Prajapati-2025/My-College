@@ -5,7 +5,6 @@ import About from './pages/About';
 import Academic from './pages/Academic';
 import Department from './pages/Department';
 import Placement from './pages/Placement';
-import Innovation from './pages/Innovation';
 import Header from './components/Header';
 import SignIn from './pages/SignIn';
 import SignUp from './pages/SignUp';
@@ -13,7 +12,7 @@ import Circular from './pages/Circular';
 import Campuslife from './pages/Campuslife';
 import Footer from './components/Footer';
 import Achivements from './pages/Achivements';
-import AppiledMechanics from './pages/departments/AppiledMechanics';
+import AppiledMechanics from './pages/departements/AppiledMechanics';
 import LdClub from './pages/LdClub';
 import Adventure from './clubs/Adventure';
 import CodersClub from './clubs/CodersClub';
@@ -26,9 +25,9 @@ import Library from './pages/Library';
 import Canteen from './pages/Canteen';
 import Hostel from './pages/Hostel';
 import CampusMap from './pages/CampusMap'
-import Bio from './pages/departments/Bio';
+import Bio from './pages/Bio';
 import Automobile from './pages/departments/Automobile';
-import Chemical from './pages/departments/Chemical';
+import Chemical from './pages/departments/Chemical'
 import Civil from './pages/departments/Civil';
 import Computer from './pages/departments/Computer';
 import Electrical from './pages/departments/Electrical';

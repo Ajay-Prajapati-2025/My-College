@@ -26,7 +26,6 @@ export default function Department() {
             <Link to='/environment'  className='hover:text-blue-600 font-semibold mb-1'>Environment Engineering</Link>
             <Link to='/it'  className='hover:text-blue-600 font-semibold mb-1'>Information Technology</Link>
             <Link to='/ic'  className='hover:text-blue-600 font-semibold mb-1'>Instrument & Control Engineering</Link>
-            <Link to='/sh'  className='hover:text-blue-600 font-semibold mb-1'>Science & Humanities</Link>
             <Link to='/mechanical'  className='hover:text-blue-600 font-semibold mb-1'>Mechanical Engineering</Link>
             <Link to='/plastic'  className='hover:text-blue-600 font-semibold mb-1'>Plastic Engineering</Link>
             <Link to='/rubber'  className='hover:text-blue-600 font-semibold mb-1'>Rubber Engineering</Link>
