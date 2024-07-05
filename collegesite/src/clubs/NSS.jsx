@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import c7 from '../assets/c_7.png'
 
 export default function NSS() {
   return (
@@ -11,7 +12,7 @@ export default function NSS() {
 
 
         <div className='max-w-6xl mx-auto flex flex-col justify-center gap-10 my-10 bg-gray-100 p-10 rounded-lg'>
-          <img src="./club_images/c_7.png" alt="Adventure Image" className='shadow-2xl w-80 h-auto mx-auto mb-10' />
+          <img src={c7} alt="=NSS Image" className='shadow-2xl w-80 h-auto mx-auto mb-10' />
           <p className='flex flex-col gap-5'>
             <h1 className='text-xl text-blue-600'>Major Activities taken up by NSS</h1>
             <ul className='flex flex-col leading-relaxed pl-5'>

@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import c1 from '../assets/c_1.jpg'
 
 
 export default function Adventure() {
@@ -13,7 +14,7 @@ export default function Adventure() {
 
 
         <div className='max-w-6xl mx-auto flex flex-col justify-center items-center gap-10 my-10 bg-gray-100 p-10 rounded-lg'>
-          <img src="./club_images/c_1.jpg" alt="Adventure Image" className='shadow-2xl w-80 h-auto' />
+          <img src={c1} alt="Adventure Image" className='shadow-2xl w-80 h-auto' />
           <p className='tracking-wide leading-relaxed p-4'>Advanature Club is an initiative of Invincible. Invincible is an NGO that is run by students of different colleges with the motto of informing people about the adventures and what young India really needs to grow in a better way.
 
 Advanature is a combination of the words 'Adventure' and 'Nature'. This club has been started as initiative in L.D. College Of Engineering and is now spreading in other colleges as well. Advanature works on four themes: Environment Awareness, Heritage and Culture Conservation, Nature Education, Adventure. We work with a motto of creating adventures and conserving heritage and culture.

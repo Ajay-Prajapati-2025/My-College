@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import c2 from '../assets/c_2.jpg'
 
 export default function CodersClub() {
   return (
@@ -31,8 +32,8 @@ export default function CodersClub() {
 
       <div className="max-w-6xl mx-auto flex flex-col justify-center items-center gap-10 my-10 bg-gray-100 p-10 rounded-lg">
         <img
-          src="./club_images/c_2.jpg"
-          alt="Adventure Image"
+          src={c2}
+          alt="coders Image"
           className="shadow-2xl w-80 h-auto"
         />
         <div>

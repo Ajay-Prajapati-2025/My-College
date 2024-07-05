@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import c5 from '../assets/c_5.png'
 
 export default function Innovator() {
   return (
@@ -31,8 +32,8 @@ export default function Innovator() {
 
       <div className="max-w-6xl mx-auto flex flex-col justify-center items-center gap-10 my-10 bg-gray-100 p-10 rounded-lg">
         <img
-          src="./club_images/c_5.png"
-          alt="Adventure Image"
+          src={c5}
+          alt="Innovator Image"
           className="shadow-2xl w-80 h-auto"
         />
         <p className="tracking-wide leading-relaxed p-4">

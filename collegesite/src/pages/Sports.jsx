@@ -1,5 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import sport_g from '../assets/sport_g.jpg'
+import cricket from '../assets/cricket.png'
+import volleyball from '../assets/volleyball.png'
+import football from '../assets/football.png'
+import chess from '../assets/chess.png'
+import tt from '../assets/table_tennis.png'
+import tennis from '../assets/tennis.png'
+import badminton from '../assets/badminton.png'
+import kabaddi from '../assets/kabaddi.png'
+import kho from '../assets/kho_kho.png'
 
 export default function Sports() {
   return (
@@ -23,14 +33,14 @@ export default function Sports() {
       </div>
 
       <div className="max-w-4xl mx-auto  my-10">
-        <img src="./achieve_images/sport_g.jpg" className="rounded-lg" />
+        <img src={sport_g} className="rounded-lg" />
       </div>
 
       <div className="w-full sm:max-w-6xl sm:mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src="./achieve_images/cricket.png"
-            alt="./achieve_images/alter_image.jpg"
+            src={cricket}
+            alt="Cricket image"
             className="flex self-start w-60 h-auto"
           />
 
@@ -57,8 +67,8 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src="./achieve_images/football.png"
-            alt="./achieve_images/alter_image.jpg"
+            src={football}
+            alt="Football image"
             className="flex self-start w-60 h-auto"
           />
 
@@ -85,8 +95,8 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src="./achieve_images/tennis.png"
-            alt="./achieve_images/alter_image.jpg"
+            src={tennis}
+            alt="Tennis Image"
             className="flex self-start w-60 h-auto"
           />
 
@@ -114,8 +124,8 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src="./achieve_images/badminton.png"
-            alt="./achieve_images/alter_image.jpg"
+            src={badminton}
+            alt="badminton Image"
             className="flex self-start w-60 h-auto"
           />
 
@@ -144,8 +154,8 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src="./achieve_images/table_tennis.png"
-            alt="./achieve_images/alter_image.jpg"
+            src={tt}
+            alt="table tennis image"
             className="flex self-start w-60 h-auto"
           />
 
@@ -171,8 +181,8 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src="./achieve_images/volleyball.png"
-            alt="./achieve_images/alter_image.jpg"
+            src={volleyball}
+            alt="volley ball image"
             className="flex self-start w-60 h-auto"
           />
 
@@ -200,8 +210,8 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src="./achieve_images/athletic.png"
-            alt="./achieve_images/alter_image.jpg"
+            src={aethletic}
+            alt="aethletic image"
             className="flex self-start w-60 h-auto"
           />
 
@@ -226,8 +236,8 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src="./achieve_images/chess.png"
-            alt="./achieve_images/alter_image.jpg"
+            src={chess}
+            alt="chess image"
             className="flex self-start w-60 h-auto"
           />
 
@@ -254,8 +264,8 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src="./achieve_images/kabaddi.png"
-            alt="./achieve_images/alter_image.jpg"
+            src={kabaddi}
+            alt="kabaddi image"
             className="flex self-start w-60 h-auto"
           />
 
@@ -281,8 +291,8 @@ export default function Sports() {
       <div className="max-w-6xl mx-auto my-10">
         <div className="border w-auto h-auto p-5 bg-gray-100  flex flex-row items-center gap-5 border-l-blue-800">
           <img
-            src="./achieve_images/kho_kho.png"
-            alt="./achieve_images/alter_image.jpg"
+            src={kho}
+            alt="kho kho image"
             className="flex self-start w-60 h-auto"
           />
 

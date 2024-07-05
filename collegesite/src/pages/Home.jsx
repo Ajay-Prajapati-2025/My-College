@@ -1,4 +1,5 @@
 import React from "react";
+import gard from '../assets/garden_ld.jpg'
 
 export default function Home() {
   return (
@@ -6,7 +7,7 @@ export default function Home() {
 
       <div className="w-full">
         <img
-          src="https://ldce.ac.in/upload/gallery/1/civil-engineering-NUOFlJg9xP.jpg"
+          src={gard}
           alt="College image"
           className="w-full h-96 object-cover"
         />

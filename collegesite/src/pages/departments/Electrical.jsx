@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import elect from '../assets/electrical.jpg'
 
 export default function Electrical() {
   return (
@@ -23,7 +24,7 @@ export default function Electrical() {
 
   <div className="max-w-6xl flex flex-col mx-auto items-center gap-3 bg-gray-100 mt-10 mb-10 rounded-lg">
     <div className="mt-5">
-      <img src="./achieve_images/electrical.jpg" className="rounded-lg" />
+      <img src={elect} className="rounded-lg" />
     </div>
 
     <div className="w-full text-white px-10 py-6">
