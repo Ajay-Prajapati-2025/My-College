@@ -35,7 +35,7 @@ At LDCE hostel, students are accommodated in a twin / triple sharing rooms. Stud
 
 A warm and affable environment in the hostel ensures that students interact among themselves freely, learn to extend mutual support when required, and develop close friendly relations. <br /><br />
 
-Hostel building at LDCE is located inside the campus. It provides accommodation to around 800 students, including 144 girl students. <br /><br />
+Hostel building at LDCE is located inside the campus. It provides accommodation to around 800 students, including 144 girl students. L.D. College of Engineering Ahemdabad. <br /><br />
 
 Hostel Administration: <br />
 The hostel is administered by the rector and wardens appointed for each block by Commissionerate of Technical Education (CTE), Gandhinagar. Admissions are given to students who are residing at least 30 kms away from the hostel based on ACPC merit. <br /><br />
